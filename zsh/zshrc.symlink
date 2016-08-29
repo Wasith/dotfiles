@@ -39,3 +39,5 @@ do
 done
 
 unset config_files
+
+alias gl="git log --branches --remotes --tags --graph --oneline --decorate"
